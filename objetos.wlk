@@ -81,3 +81,4 @@ object placa {
   method material() = cobre
   method peso() = peso
 }
+
